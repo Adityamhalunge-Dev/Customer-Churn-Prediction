@@ -149,3 +149,14 @@ customer-churn-prediction/
 ---
 
 This project was created as part of my **Data Analytics and Consumer Insight portfolio**, focusing on predictive modeling, customer analytics, and business decision support.
+
+---
+
+# Author
+
+**Umiwithdata*
+
+Market Research | Consumer Insight | Data Analytics
+
+**GitHub:** https://github.com/umiwithdata
+
