@@ -117,18 +117,6 @@ These actions could reduce churn and improve customer lifetime value (CLV).
 
 ---
 
-## Repository Structure
-
-```text
-customer-churn-prediction/
-├── Customer_Churn_Prediction.ipynb
-├── churn_distribution.png
-├── feature_importance.png
-└── README.md
-```
-
----
-
 ## How to Run
 
 1. Clone this repository
