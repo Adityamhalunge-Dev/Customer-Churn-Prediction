@@ -117,15 +117,6 @@ These actions could reduce churn and improve customer lifetime value (CLV).
 
 ---
 
-## How to Run
-
-1. Clone this repository
-2. Open `Customer_Churn_Prediction.ipynb` in Jupyter Notebook or Google Colab
-3. Install the required Python libraries
-4. Run the notebook from top to bottom
-
----
-
 ## Project Highlights
 
 * End-to-end machine learning workflow
